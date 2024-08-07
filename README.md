@@ -9,8 +9,8 @@ After soving this basic question you will understand after basic coding
 
 ## Content 
 
-Basic Syntax of C++.
-How the loops works.
-How the Switch Condition Work.
-How array is created Single Dimensional and Multi Dimensional.
+Basic Syntax of C++. <br>
+How the loops works. <br>
+How the Switch Condition Work. <br>
+How array is created Single Dimensional and Multi Dimensional.<br>
 
