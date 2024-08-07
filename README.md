@@ -13,4 +13,5 @@ Basic Syntax of C++. <br>
 How the loops works. <br>
 How the Switch Condition Work. <br>
 How array is created Single Dimensional and Multi Dimensional.<br>
-
+How the Bitwise Operator works. <br>
+How the Conditional Statement Work. <br>
