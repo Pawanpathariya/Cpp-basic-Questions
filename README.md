@@ -6,3 +6,11 @@ Welcome to the Basic C++ Questions repository! This project is a collection of c
 
 This repository contains a set of basic C++ questions that cover fundamental programming concepts. Each question is accompanied by a description and, where applicable, sample input and output. This resource is ideal for students, beginners, or anyone interested in honing their C++ skills.
 After soving this basic question you will understand after basic coding
+
+## Content 
+
+Basic Syntax of C++.
+How the loops works.
+How the Switch Condition Work.
+How array is created Single Dimensional and Multi Dimensional.
+
