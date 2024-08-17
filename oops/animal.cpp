@@ -35,3 +35,15 @@ public:
     }
 };
 
+int main() {
+    Animal obj1;
+    obj1.insert();
+    obj1.all_details();
+    obj1.animalcategory();
+    Animal obj2("Lion",4,"Carnivores");
+   obj2.all_details();
+    obj2.animalcategory();
+    Animal obj3("Elephant",4,"Herbivores");
+   obj3.all_details();
+    obj3.animalcategory();
+}
