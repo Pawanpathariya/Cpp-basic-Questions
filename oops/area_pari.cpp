@@ -19,3 +19,9 @@ void parameter(){
 
 }obj1;
 
+int main(){
+// Circle obj1;
+obj1.insert();
+obj1.area();
+obj1.parameter();
+}
