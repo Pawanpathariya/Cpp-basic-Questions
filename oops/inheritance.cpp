@@ -16,3 +16,14 @@ void f3(){
 }
 };
 
+class Child :public Parent{
+    public:
+void f4(){
+f2();//taking indirectly access of f2()
+}
+};
+int main(){
+ Child obj;
+ obj.f3();
+ obj.f4();
+}
