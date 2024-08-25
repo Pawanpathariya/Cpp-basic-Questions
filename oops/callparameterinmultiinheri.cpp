@@ -13,4 +13,13 @@ using namespace std;
 						}
 						
 	};
-		
+				
+			class College:public University{
+					protected:
+						string college_name;
+						public:
+							College(string un, int numC, string CN): University(un,numC){
+								college_name=CN;
+							}
+			};
+				
