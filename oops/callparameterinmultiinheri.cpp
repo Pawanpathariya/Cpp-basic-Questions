@@ -37,3 +37,8 @@ using namespace std;
 							cout<<"Student Name: "<<student_name<<endl;
 						}
 				};
+     int main(){
+		Student obj("RGPV",10000,"NRI","Pawan");
+        obj.display();
+        return 0;
+     }
