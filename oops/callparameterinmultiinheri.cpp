@@ -23,3 +23,17 @@ using namespace std;
 							}
 			};
 				
+				 class Student: public College{
+					protected:
+						string student_name;
+					public:
+						Student(string un, int numC,string CN, string name):College(un,numC,CN){
+							student_name=name;
+						}
+						void display(){
+							cout<<"University Name: "<<university_name<<endl;
+							cout<<"Number of college affilated: "<<number_of_college_affilated<<endl;
+							cout<<"College Name: "<<college_name<<endl;
+							cout<<"Student Name: "<<student_name<<endl;
+						}
+				};
