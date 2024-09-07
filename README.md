@@ -1,4 +1,4 @@
-# Basic full C++ Questions
+# full C++ Questions
 
 Welcome to the Basic C++ Questions repository! This project is a collection of common questions and exercises for learning C++. Whether you're just starting out or looking to brush up on your skills, you'll find a variety of questions here to help you practice and improve.
 
